@@ -1,0 +1,87 @@
+test_question,test_intent,result_question,result_intent,result_confidence,correct
+Can you please help with golf insurance?,59718e717cf3bfd43b62ed3e,Can you please help me with Travel Insurance?,5979a072df3be25165f6c42d,0.809202196826,False
+Travel Insurance,59718b107cf3bfd43b62ed0d,What is group insurance?,5979a072df3be25165f6c440,0.478818914085,False
+what is the maximum age for student insurance?,59685b62a81ba4b21817bc1e,What insurance plans are there for students?,5979a072df3be25165f6c43e,0.674533638147,False
+i wanna cancel my hospitalization plan,58f9990abc9c1e5cbcd98b2f,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.73346724062,True
+i want to surrender my policy,58f998b7bc9c1e5cbcd98b24,"I want to surrender my policy XXX, what is the surrender value?",5979a072df3be25165f6c430,0.779516297529,True
+how about investment linked plan,58f998c7bc9c1e5cbcd98b26,Investment Linked policy,5979a072df3be25165f6c431,0.692661757436,True
+my address changed do i need to file a form?,5968603ba81ba4b21817bd30,"My address has changed, what do I do?",5979a072df3be25165f6c432,0.725134867805,True
+Can you help check on the satus of my client's hospitalisation bills from the month just passed?,58f9992bbc9c1e5cbcd98b33,"My client has submitted pre and post hospitalisation bills last month, what is the current status?",5979a072df3be25165f6c433,0.60377680138,True
+when does money get deducted for a policy under giro?,58f99948bc9c1e5cbcd98b37,This policy is under giro. When will money be deduct from my account?,5979a072df3be25165f6c434,0.715776869526,True
+is a heart attack covered by lifeassure?,59686bb4a81ba4b21817bf92,does the lifeassure plan cover strokes?,5979a072df3be25165f6c43a,0.424058648784,False
+does hospitalsurance have a waiting period?,591af8a04e9337459e1c9f38,What is the waiting period for hospitalsurance?,5979a072df3be25165f6c436,0.720986250875,True
+can i be covered by group insurance if i am a part-time worker?,5968596ca81ba4b21817bbf5,Who can be covered by group insurance?,5979a072df3be25165f6c437,0.619863722348,True
+Why are some sicknesses excluded during the first year and some excluded during the first six months?,591af8284e9337459e1c9f26,Why are the roaming calls that I made last month not yet charged on my statement of this month?,5979a072df3be25165f6c480,0.42566055127,False
+how come I can only get coverage when being in the hospital includes treatment,591af93b4e9337459e1c9f4c,Why is hospitalisation covered only if there is treatment involved?,5979a072df3be25165f6c439,0.526742050476,True
+does the life assure plan cover strokes?,596c725846fa08f7d2e836b5,does the lifeassure plan cover strokes?,5979a072df3be25165f6c43a,0.862744275862,True
+I broke a bone,5968714fa81ba4b21817bff8,i broke my arm today,5979a072df3be25165f6c43b,0.67271034012,True
+"i hurt myself, will student insurance cover it?",596864d2a81ba4b21817bd96,"I broke my arm at school, will my student insurance cover this?",5979a072df3be25165f6c43c,0.722117408547,True
+what is the call center number?,59685f83a81ba4b21817bcdb,How do I calculate the airtime charge of a local call?,5979a072df3be25165f6c47c,0.403117453113,False
+what student plans do you have?,59685affa81ba4b21817bc0d,What insurance plans are there for students?,5979a072df3be25165f6c43e,0.676155313257,True
+can you tell me more about sun life?,59685585a81ba4b21817bb9e,What is Sun Life?,5979a072df3be25165f6c43f,0.545147856933,True
+can you tell me more about group insurance?,59685935a81ba4b21817bbeb,Can you please help me with Travel Insurance?,5979a072df3be25165f6c42d,0.612442801867,False
+can you tell me more about the sun life fit and well plan,5968574ca81ba4b21817bbba,What is sun life fit and well plan?,5979a072df3be25165f6c441,0.725575679647,True
+can you tell me more about the sun life first aid plan,596846aea81ba4b21817bac5,What is the Sun Life First Aid Plan?,5979a072df3be25165f6c442,0.72641528017,True
+what is the lifeassure plan,59686ae9a81ba4b21817bf74,What is the Sun LifeAssure Plan?,5979a072df3be25165f6c443,0.744954402836,True
+what sort of variable life insurance do you offer?,5968584ca81ba4b21817bbc9,What variable life insurance plans do you have?,5979a072df3be25165f6c444,0.771672687122,True
+how do i send a remittance?,59686279a81ba4b21817bd6d,how do I file a remittance?,5979a072df3be25165f6c445,0.751753043402,True
+is there any 24 hour hotline?,596f006946fa08f7d2e83fcf,Is there a waiting period for pet insurance?,5979a072df3be25165f6c462,0.362150266093,False
+what is the price of the plan?,596f006946fa08f7d2e83fcd,What is the Sun LifeAssure Plan?,5979a072df3be25165f6c443,0.560676421668,False
+can i choose which period to be cover by the plan?,596f006946fa08f7d2e83fd0,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.535893030837,False
+will the plan cover medical expense during the trip?,596f006946fa08f7d2e83fcb,"I purchased the annual plan of TravelWise insurance policy, will this policy cover all of my trips in this year?",5979a072df3be25165f6c44b,0.550861598537,False
+what travel expense can be claimed?,596f006946fa08f7d2e83fd4,Can you please help me with Travel Insurance?,5979a072df3be25165f6c42d,0.421216818797,False
+will the plan cover all my trip in that year?,596f006846fa08f7d2e83fc9,"I purchased the annual plan of TravelWise insurance policy, will this policy cover all of my trips in this year?",5979a072df3be25165f6c44b,0.642022933997,True
+will i be covered if i extend the period of my trip?,596f006946fa08f7d2e83fce,"I will be travelling to Thailand this weekend, but a tsunami has just hit the tourist spot today. I want to cancel my trip. Am I covered?",5979a072df3be25165f6c44d,0.61727067327,False
+in what situation can i claim my loss if i cancelled my trip?,596f006946fa08f7d2e83fd3,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.589285126355,False
+will the plan cover the activites i joined during the trip?,596f006946fa08f7d2e83fca,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.571637957028,False
+will the plan cover all the place i visit during the same trip?,596f006946fa08f7d2e83fd2,"I will be travelling to Thailand this weekend, but a tsunami has just hit the tourist spot today. I want to cancel my trip. Am I covered?",5979a072df3be25165f6c44d,0.616373075025,False
+which date will the plan start?,596f006946fa08f7d2e83fd1,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.514065970818,False
+is there any country that is not cover by the plan?,596f006946fa08f7d2e83fcc,"If I travel to multiple countries within the same trip, do I need to purchase a separate plan for each country?",5979a072df3be25165f6c44f,0.509965794455,False
+how much no claim bonus can i get,59521ec611fd52ff796a4cba,Do you have no claim bonus?,5979a072df3be25165f6c452,0.705546941885,True
+I want to discontuine with the insurance plan.,5950aadf11fd52ff796a4aee,"I want to cancel my hospitalisation plan, how can I go about cancelling the plan?",5979a072df3be25165f6c42f,0.630501151622,False
+What should I do in order to update my billing information,5950aadf11fd52ff796a4ae9,How do I update my profile or billing infromation,5979a072df3be25165f6c454,0.775622792451,True
+Is it fine if I like to pay with my debit card?,5950aadf11fd52ff796a4aeb,How much premium do I have to pay?,5979a072df3be25165f6c447,0.57544442139,False
+Is the monthly payment be charged on the first day of the month?,5950aadf11fd52ff796a4aea,When will the monthly payment be charged or deducted?,5979a072df3be25165f6c456,0.695754872953,True
+Will I be charged more next year?,5950aadf11fd52ff796a4aed,Why are the roaming calls that I made last month not yet charged on my statement of this month?,5979a072df3be25165f6c480,0.473469366633,False
+what is the maximum that i can claim?,5950aadf11fd52ff796a4af4,Where can I get a claim form?,5979a072df3be25165f6c465,0.615370816708,False
+Can I go to the vet I usually go to?,5950aadf11fd52ff796a4af0,Can I still use my vet?,5979a072df3be25165f6c459,0.698695638242,True
+Could I claim for sickness or illness?,5950aadf11fd52ff796a4af1,What should I expect in the event of an illness or accident?,5979a072df3be25165f6c464,0.572945567264,False
+Are pre-existing conditions covered?,5950aadf11fd52ff796a4af2,What is pre-existing condition?,5979a072df3be25165f6c472,0.862539606644,False
+why is routine care not covered?,5950aadf11fd52ff796a4af5,What's not covered?,5979a072df3be25165f6c45b,0.579272279398,False
+Is there an age limit for my pet?,5950aadf11fd52ff796a4af3,Are there any types of caps or maximum limits?,5979a072df3be25165f6c458,0.543991187771,False
+how can i reach you?,5950aadf11fd52ff796a4afc,How can I settle my bill?,5979a072df3be25165f6c47a,0.511524914285,False
+what do i need to do to claim?,5950aadf11fd52ff796a4af8,How can I contact you about a claim?,5979a072df3be25165f6c45e,0.655812609016,False
+how can i reimburse?,5950aadf11fd52ff796a4af7,"After I enroll, can I change my deductible or reimbursement level?",5979a072df3be25165f6c46a,0.520208280219,False
+How do you calculae the reimbursement?,5950aadf11fd52ff796a4afe,How is reimbursement calculated?,5979a072df3be25165f6c461,0.789264084346,True
+pet insurance waiting period?,5950aadf11fd52ff796a4af9,Is there a waiting period for pet insurance?,5979a072df3be25165f6c462,0.689355751792,True
+what happens after I filed a claim,5950aadf11fd52ff796a4afb,How do I file a claim?,5979a072df3be25165f6c45f,0.768612254304,False
+what should I do when there's a sickness or accident?,5950aadf11fd52ff796a4afa,What should I expect in the event of an illness or accident?,5979a072df3be25165f6c464,0.685478894103,True
+Where do I find a form for claiming,5950aadf11fd52ff796a4afd,Where can I get a claim form?,5979a072df3be25165f6c465,0.755648291556,True
+Is there lifetime coverage?,5950aadf11fd52ff796a4b00,Do you offer lifetime coverage?,5979a072df3be25165f6c466,0.728080599932,True
+Is a vet exam necessary for coverage,5950aadf11fd52ff796a4b01,Does my pet need a vet exam to qualify for coverage?,5979a072df3be25165f6c467,0.735007395841,True
+My pet was rescued from the doggo shelter. Is the physical okay for enrollment exam?,5950aadf11fd52ff796a4b02,I just rescued my pet from a shelter. Can I use their physical as the enrollment vet exam?,5979a072df3be25165f6c468,0.753923631959,True
+is my chiwawa eligible for insurance,5950b4ce11fd52ff796a4b5c,What insurance plans are there for students?,5979a072df3be25165f6c43e,0.602108816999,False
+I want to change my reimbursement level after i enroll,5950aadf11fd52ff796a4b07,"After I enroll, can I change my deductible or reimbursement level?",5979a072df3be25165f6c46a,0.761939382404,True
+I want to cancel before my policy term ends,5950aadf11fd52ff796a4b08,Can I cancel my policy before the term is up?,5979a072df3be25165f6c46b,0.75372375938,True
+I want to add another pet,5950aadf11fd52ff796a4b05,How do I add a new pet?,5979a072df3be25165f6c46c,0.75486353892,True
+can you tell me what the annual deductible is like?,5950aadf11fd52ff796a4b06,How does the annual deductible work?,5979a072df3be25165f6c46d,0.710774706531,True
+how long does it take for my policy to come into effect?,5950aadf11fd52ff796a4b09,"How do I apply for autopay, and how long does it take?",5979a072df3be25165f6c47b,0.615961834869,False
+I did not get my policy document in mail.,5950aadf11fd52ff796a4b04,Why didn't I get my policy documents in the mail?,5979a072df3be25165f6c46f,0.916944207802,True
+is it ok for my pet to have preexisting condition,59521ba911fd52ff796a4c87,Can my pet has pre-existing condition?,5979a072df3be25165f6c470,0.622684265802,True
+do congenital conditions fall under the pre-existing category?,5950aadf11fd52ff796a4b0c,Is my pet's congenital condition considered pre-existing?,5979a072df3be25165f6c471,0.693300146205,True
+Can you define pre-existing conditions for me?,5950aadf11fd52ff796a4b0b,What is pre-existing condition?,5979a072df3be25165f6c472,0.704673647153,True
+What are petcare's capabilities?,5951ce2e11fd52ff796a4bb5,What is PetCare?,5979a072df3be25165f6c474,0.533750727881,False
+Tell me more about PetCare,5951ccf311fd52ff796a4b9b,How can I contact you about a claim?,5979a072df3be25165f6c45e,0.434264120605,False
+What reasons are there to use petcare?,5951ce5611fd52ff796a4bb7,Why should I use Petcare?,5979a072df3be25165f6c475,0.552814454899,True
+Are there channels for the handicapped to check statement?,59257d4a0b0e183868222188,"Are there any special channels provided for the needy people (e.g. elderly, visually impaired) to check their statement?",5979a072df3be25165f6c476,0.58276551751,True
+I want to change my statement language,59257d4a0b0e183868222189,Can I change the language for my statement?,5979a072df3be25165f6c477,0.786481822637,True
+where to find call records?,59257d4a0b0e18386822218a,Can I check my call records?,5979a072df3be25165f6c478,0.567096478274,True
+i wanna change my registered address,59257d4a0b0e18386822218b,How can I change my billing address and / or registered address?,5979a072df3be25165f6c479,0.689193936379,True
+how can i make payments?,59257d4a0b0e18386822218f,How can I settle my bill?,5979a072df3be25165f6c47a,0.556059640709,True
+"I want to get autopay, how do I apply and when can I know if I got it?",59257d4a0b0e183868222190,"How do I apply for autopay, and how long does it take?",5979a072df3be25165f6c47b,0.671955740586,True
+I want to find out the airtime charge from my local call,59257d4a0b0e183868222191,How do I calculate the airtime charge of a local call?,5979a072df3be25165f6c47c,0.731000597866,True
+I want to find out the usage and statement balance in my account,59257d4a0b0e183868222192,How do I check the usage and statement balance of my account?,5979a072df3be25165f6c47d,0.818718805179,True
+I wanna change password,592783657b54aab66a2ebafc,I want to reset my password,5979a072df3be25165f6c47e,0.726034014503,True
+Can you tell me more about intra-call minutes?,59257d4a0b0e183868222193,What are Intra-Call Minutes ?,5979a072df3be25165f6c47f,0.694191509486,True
+How come there is a delay in the charges for roaming calls?,59257d4a0b0e183868222194,How do I calculate the airtime charge of a local call?,5979a072df3be25165f6c47c,0.567509289528,False
+How come there is a difference in my monthly tariff plan and initial bill?,59257d4a0b0e183868222195,Why is the amount on my first bill different from my monthly tariff plan?,5979a072df3be25165f6c481,0.706835315127,True
