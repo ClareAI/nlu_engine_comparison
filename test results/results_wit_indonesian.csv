@@ -1,0 +1,395 @@
+test_question,test_intent,result_question,result_intent,result_confidence,correct
+Call BRI apa?,59882228eef805f684205791,,,,False
+Apa itu Call BRI?,59882228eef805f684205791,,,,False
+Call BRI?,59882228eef805f684205791,,,,False
+Manfaat Call BRI? ,59882228eef805f684205792,,,,False
+Apa manfaat Call BRI?,59882228eef805f684205792,,,,False
+Apakah Call BRI ada manfaatnya?,59882228eef805f684205792,,,,False
+Kenapa harus Call BRI?,59882228eef805f684205793,,,,False
+Apa latarbelakang Call BRI?,59882228eef805f684205793,Apa yang melatarbelakangi adanya Call BRI?,59882228eef805f684205793,0.53009872050636,True
+Call BRI latarbelakangnya apa?,59882228eef805f684205793,,,,False
+Call BRI untuk siapa? ,59882228eef805f684205794,,,,False
+Call BRI sasarannya siapa? ,59882228eef805f684205794,,,,False
+Sasaran Call BRI siapa?,59882228eef805f684205794,,,,False
+Call BRI bisa apa saja?,59882228eef805f684205795,,,,False
+Call BRI bisa dapat informasi apa saja?,59882228eef805f684205795,Informasi apa saja yang dapat dilayani di Call BRI?,59882228eef805f684205799,0.66185470511506,False
+Dapat informasi apa saja dari Call BRI?,59882228eef805f684205795,Informasi apa saja yang dapat dilayani di Call BRI?,59882228eef805f684205799,0.70639652205012,False
+IVR apa?,59882228eef805f684205796,,,,False
+Apakah IVR itu?,59882228eef805f684205796,,,,False
+IVR artinya apa?,59882228eef805f684205796,,,,False
+"Apa Agent/CSR di Call BRI?
+",59882228eef805f684205797,Apakah yang dimaksud dengan Agent/CSR di Call BRI?,59882228eef805f684205797,0.78636883193469,True
+Agent/CSR di Call BRI artinya apa?,59882228eef805f684205797,Apakah yang dimaksud dengan Agent/CSR di Call BRI?,59882228eef805f684205797,0.59657861681699,True
+Apakah Agent/CSR di Call BRI itu?,59882228eef805f684205797,Apakah yang dimaksud dengan Agent/CSR di Call BRI?,59882228eef805f684205797,0.81615349015383,True
+"Fasilitas apa yang ada di Call BRI?
+",59882228eef805f684205798,Fasilitas apa saja yang dapat dilayani di Call BRI?,59882228eef805f684205798,0.73768015439984,True
+Call BRI fasilitasnya apa saja?,59882228eef805f684205798,,,,False
+Apa Fasilitas Call BRI?,59882228eef805f684205798,,,,False
+"Call BRI bisa apa saja?
+",59882228eef805f684205799,,,,False
+Call BRI bisa dapat informasi apa saja?,59882228eef805f684205799,Informasi apa saja yang dapat dilayani di Call BRI?,59882228eef805f684205799,0.66185470511506,True
+Dapat informasi apa saja dari Call BRI?,59882228eef805f684205799,Informasi apa saja yang dapat dilayani di Call BRI?,59882228eef805f684205799,0.70639652205012,True
+"Call BRI bisa transaksi apa saja?
+",59882228eef805f68420579a,,,,False
+Apa saja transaksi Call BRI?,59882228eef805f68420579a,,,,False
+Call BRI Transaksi apa?,59882228eef805f68420579a,,,,False
+"Kapan saja Phone Banking beroprasi?
+",59882228eef805f68420579b,Berapa lama Phone Banking beroperasi?,59882228eef805f68420579b,0.7328361059628,True
+Phone Banking bisa digunakan kapan saja?,59882228eef805f68420579b,,,,False
+Kapan saja Phone Banking bisa di gunakan?,59882228eef805f68420579b,,,,False
+"Nomor akses Call BRI?
+",59882228eef805f68420579c,Berapa nomor akses Call BRI ?,59882228eef805f68420579c,0.65622149693937,True
+Call BRI nomor aksesnya berapa?,59882228eef805f68420579c,Berapa nomor akses Call BRI ?,59882228eef805f68420579c,0.81841868276748,True
+Nomor akses Call BRI berapa ya?,59882228eef805f68420579c,Berapa nomor akses Call BRI ?,59882228eef805f68420579c,0.88964837973428,True
+"Berapa cara transaksi Call BRI?
+",59882228eef805f68420579d,,,,False
+Call BRI transaksinya berapa cara?,59882228eef805f68420579d,,,,False
+Berapa cara transaksi Call BRI ya?,59882228eef805f68420579d,,,,False
+"Apa syarat Call BRI?
+",59882228eef805f68420579e,,,,False
+Apakah ada syarat untuk fasilitas Call BRI?,59882228eef805f68420579e,,,,False
+Ketentuan Call BRI apa?,59882228eef805f68420579e,,,,False
+"Dimana registrasi Call BRI?
+",59882228eef805f68420579f,,,,False
+Call BRI registrasi dimana?,59882228eef805f68420579f,,,,False
+Dimana dapat registrasi Call BRI?,59882228eef805f68420579f,Dimana saya dapat melakukan Registrasi Call BRI?,59882228eef805f68420579f,0.75452668383939,True
+"Cara registrasi call BRI di ATM?
+",59882228eef805f6842057a0,,,,False
+Langkah registrasi Call BRI?,59882228eef805f6842057a0,,,,False
+Bagaimana langkah registrasi Call BRI?,59882228eef805f6842057a0,,,,False
+"Gimana cara verifikasi Phone Banking?
+",59882228eef805f6842057a1,,,,False
+Verifikasi Pone Banking?,59882228eef805f6842057a1,,,,False
+Cara verifikasi Phone Banking?,59882228eef805f6842057a1,,,,False
+"Apa bukti transaksi Call BRI?
+",59882228eef805f6842057a2,,,,False
+Call BRI apa ada bukti transaksinya?,59882228eef805f6842057a2,,,,False
+Bukti transaksi Call BRI?,59882228eef805f6842057a2,,,,False
+"Berapa digit nomor referensinya?
+",59882228eef805f6842057a3,,,,False
+Nomor referensinya berapa digit?,59882228eef805f6842057a3,,,,False
+Berapa digit nomor referensi?,59882228eef805f6842057a3,,,,False
+"Menaikan batas kredit gimana yah?
+",59882228eef805f6842057a5,,,,False
+Cara menaikan batas kredit?,59882228eef805f6842057a5,,,,False
+Batas kredit gimana cara menaikannya?,59882228eef805f6842057a5,Bagaimana cara menaikkan batas kredit saya?,59882228eef805f6842057a5,0.57478747411074,True
+"Cara menambah batas kredit sementara?
+",59882228eef805f6842057a6,Bagaimana cara menambah batas kredit sementara?,59882228eef805f6842057a6,0.95938727015068,True
+Menambah batas kredit sementara gimana?,59882228eef805f6842057a6,Bagaimana cara menambah batas kredit sementara?,59882228eef805f6842057a6,0.93815870271614,True
+Menambah batas kredit sementara caranya gimana?,59882228eef805f6842057a6,Bagaimana cara menambah batas kredit sementara?,59882228eef805f6842057a6,0.95852279609047,True
+"Bagaimana kenaikan batas kredit?
+",59882228eef805f6842057a7,,,,False
+Kenaikan batas kredit?,59882228eef805f6842057a7,,,,False
+Kenaikan batas kredit berapa lama?,59882228eef805f6842057a7,Berapa lama kenaikan batas kredit berlaku?,59882228eef805f6842057a7,0.84004967556134,True
+"Tanggal cetak untuk kredit BTN kapan?
+",59882228eef805f6842057a8,Kapan tanggal cetak untuk kredit BTN saya?,59882228eef805f6842057a8,0.89339848729846,True
+Tanggal cetak kapan?,59882228eef805f6842057a8,,,,False
+Kapan tanggal cetak?,59882228eef805f6842057a8,,,,False
+"Mengapa ada transaksi yang belum tertera?
+",59882228eef805f6842057a9,,,,False
+Kok bisa ada transaksi yang belum tertera di lembar penagihan?,59882228eef805f6842057a9,Mengapa ada pemakaian/transaksi saya yang belum tertera di lembar penagihan?,59882228eef805f6842057a9,0.85989061906845,True
+Kok ada transaksi yang belum tertera?,59882228eef805f6842057a9,,,,False
+"Tanggal cetak bisa di ubah tidak?
+",59882228eef805f6842057aa,Apakah tanggal cetak bisa di ubah?,59882228eef805f6842057aa,0.92526469959615,True
+Ubah tanggal cetak bisa?,59882228eef805f6842057aa,Apakah tanggal cetak bisa di ubah?,59882228eef805f6842057aa,0.71250435361717,True
+Bisakah tanggal cetak di ubah?,59882228eef805f6842057aa,Apakah tanggal cetak bisa di ubah?,59882228eef805f6842057aa,0.91267432654838,True
+"Kapan lembar penagihan di terima saya?
+",59882228eef805f6842057ab,Kapan saya menerima lembar penagihan?,59882228eef805f6842057ab,0.8370686265851,True
+Lembar penagihan kapan diterima?,59882228eef805f6842057ab,,,,False
+Lembar penagihan kapan diterima oleh saya?,59882228eef805f6842057ab,Kapan saya menerima lembar penagihan?,59882228eef805f6842057ab,0.68095555687123,True
+"Status pembayaran terakhir?
+",59882228eef805f6842057ac,Menanyakan status pembayaran terakhir?,59882228eef805f6842057ac,0.84308060296795,True
+Bagaimana status pembayaran terakhir?,59882228eef805f6842057ac,Menanyakan status pembayaran terakhir?,59882228eef805f6842057ac,0.86164276885874,True
+Status pembayaran terakhir?,59882228eef805f6842057ac,Menanyakan status pembayaran terakhir?,59882228eef805f6842057ac,0.84308060296795,True
+"Berapa lama pembukuan pembayaran?
+",59882228eef805f6842057ad,Berapa lama waktu yang dibutuhkan untuk pembukuan pembayaran?,59882228eef805f6842057ad,0.56205977112451,True
+Pembukuan pembayaran berapa lama?,59882228eef805f6842057ad,,,,False
+Kira-kira berapa lama pembukuan pembayaran?,59882228eef805f6842057ad,,,,False
+"Batas pengambilan tunai?
+",59882228eef805f6842057ae,,,,False
+Batas pengambilan tunai berapa besar?,59882228eef805f6842057ae,Berapa besar batas pengembalian tunai?,59882228eef805f6842057ae,0.66972997944141,True
+Pengembalian tunai besar batasnya berapa?,59882228eef805f6842057ae,Berapa besar batas pengembalian tunai?,59882228eef805f6842057ae,0.94113589550661,True
+"Asuransi Prima Proteksi?
+",59882228eef805f6842057af,Apakah Asuransi Prima Proteksi itu?,59882228eef805f6842057af,0.7715369809292,True
+Asuransi Prima Proteksi apa?,59882228eef805f6842057af,Apakah Asuransi Prima Proteksi itu?,59882228eef805f6842057af,0.82301926913732,True
+Apa sih Asuransi Prima Proteksi?,59882228eef805f6842057af,Apakah Asuransi Prima Proteksi itu?,59882228eef805f6842057af,0.91032578702323,True
+"Apakah saya mendapatkan biaya kalau menderita luka-luka akibat kecelakaan?
+",59882228eef805f6842057b0,"Saya menderita luka-luka akibat kecelakaan, apakah saya mendapatkan biaya penggantian?",59882228eef805f6842057b0,0.95201689354002,True
+Biaya penggantian bila kecelakaan?,59882228eef805f6842057b0,,,,False
+Bisakah sayang mendapatkan biaya penggantian bila menderita luka-luka kecelakaan?,59882228eef805f6842057b0,"Saya menderita luka-luka akibat kecelakaan, apakah saya mendapatkan biaya penggantian?",59882228eef805f6842057b0,0.96618035345448,True
+"Kalau klaim gimana caranya?
+",59882228eef805f6842057b1,,,,False
+Mengajukan klaim?,59882228eef805f6842057b1,,,,False
+"Saya mau mengajukan klaim, gimana caranya?",59882228eef805f6842057b1,Bagaimana cara mengajukan klaim?,59882228eef805f6842057b1,0.86368981855244,True
+"Syarat Klaim Proteksi?
+",59882228eef805f6842057b2,,,,False
+"Klaim proteksi, dokumen yang dibutuhkan apa saja?",59882228eef805f6842057b2,,,,False
+Apa saja dokumen yang dibutuhkan untuk Klaim Proteksi?,59882228eef805f6842057b2,,,,False
+"Kartu BTN ditolak Merchant?
+",59882228eef805f6842057b3,,,,False
+Kenapa Merchant menolak kartu BTN?,59882228eef805f6842057b3,Kenapa Kartu Kredit BTN saya ditolak di Merchant?,59882228eef805f6842057b3,0.54478268059697,True
+Mengapa kartu kredit saya ditolak?,59882228eef805f6842057b3,,,,False
+"Bagaimana jika nama yang tercetak salah?
+",59882228eef805f6842057b4,,,,False
+"Nama yang tercetak di kartu salah, bagaimana?",59882228eef805f6842057b4,,,,False
+Nama yang tercetak salah?,59882228eef805f6842057b4,,,,False
+"Apa yang harus saya lakukan bila Kartu kredit BTN saya rusak?
+",59882228eef805f6842057b5,Saya kehilangan kartu kredit BTN apa yang harus saya lakukan?,59882228eef805f6842057b7,0.80557314228788,False
+Saya harus bagaimana jika kartu BTN saya rusak?,59882228eef805f6842057b5,,,,False
+Kartu BTN saya rusak bagaimana?,59882228eef805f6842057b5,,,,False
+"Kenapa ada biaya 3%?
+",59882228eef805f6842057b6,,,,False
+3% untuk apa?,59882228eef805f6842057b6,,,,False
+Kenapa ada biaya 3% waktu saya pakai kartu kredit?,59882228eef805f6842057b6,,,,False
+"Bagaimana kalo kartu kredit BTN saya hilang?
+ ",59882228eef805f6842057b7,,,,False
+Kartu kredit BTN hilang?,59882228eef805f6842057b7,,,,False
+Saya harus bagaimana jika kartu kredit BTN saya hilang?,59882228eef805f6842057b7,,,,False
+"Blokir sementara bagaimana?
+",59882228eef805f6842057b8,,,,False
+Blokir sementara?,59882228eef805f6842057b8,,,,False
+Bisakah di blokir sementara jika kartu kredit saya hilang?,59882228eef805f6842057b8,,,,False
+"Kantor pusat bank Danamon dimana?
+",59882228eef805f6842057ba,Dimanakah alamat Kantor Pusat Bank Danamon?,59882228eef805f6842057ba,0.73998316291503,True
+Kantor pusat bank Danamon?,59882228eef805f6842057ba,Dimanakah alamat Kantor Pusat Bank Danamon?,59882228eef805f6842057ba,0.70587751306016,True
+Ada dimanakah kantor pusat bank Danamon?,59882228eef805f6842057ba,Dimanakah alamat Kantor Pusat Bank Danamon?,59882228eef805f6842057ba,0.93532606749534,True
+"Mendapatkan bantuan?
+",59882228eef805f6842057bb,Bagaimana cara mendapatkan bantuan?,59882228eef805f6842057bb,0.72115238979529,True
+Cara mendapatkan bantuan bagaimana?,59882228eef805f6842057bb,Bagaimana cara mendapatkan bantuan?,59882228eef805f6842057bb,0.96653484238337,True
+Gimana cara dapat bantuan?,59882228eef805f6842057bb,Bagaimana cara mendapatkan bantuan?,59882228eef805f6842057bb,0.60726535963697,True
+"Ada aktifitas yang tidak biasa, apakah harus melapor?
+",59882228eef805f6842057bc,Apakah Nasabah harus melaporkan jika ada transaksi atau aktivitas yang tidak biasa?,59882228eef805f6842057bc,0.55886994964781,True
+Jika ada aktifitas yang tidak biasa apakah harus melapor?,59882228eef805f6842057bc,Apakah Nasabah harus melaporkan jika ada transaksi atau aktivitas yang tidak biasa?,59882228eef805f6842057bc,0.72466750413544,True
+Apa harus melapor jika ada aktifitas yang tidak biasa?,59882228eef805f6842057bc,Apakah Nasabah harus melaporkan jika ada transaksi atau aktivitas yang tidak biasa?,59882228eef805f6842057bc,0.72440892965297,True
+"Pihak yang tidak berkepentingan dapat menggunakan data nasabah?
+",59882228eef805f6842057bd,Apakah data Nasabah dapat digunakan oleh pihak-pihak yang tidak berkepentingan?,59882228eef805f6842057bd,0.78652170783375,True
+Data nasabah digunkan oleh pihak yang tidak berkepentingan?,59882228eef805f6842057bd,Apakah data Nasabah dapat digunakan oleh pihak-pihak yang tidak berkepentingan?,59882228eef805f6842057bd,0.94424315321972,True
+Apakah data nasabah aman?,59882228eef805f6842057bd,,,,False
+"Danamon online banking bisa apa saja?
+",59882228eef805f6842057be,,,,False
+Di Danamon online banking ada layanan apa saja?,59882228eef805f6842057be,,,,False
+Layanan Danamon online banking?,59882228eef805f6842057be,,,,False
+"Syarat nya apa saja?
+",59882228eef805f6842057bf,,,,False
+Syarat Online banking?,59882228eef805f6842057bf,,,,False
+Apa syarat yang harus saya penuhi?,59882228eef805f6842057bf,,,,False
+"Bagaimana dengan keamanannya?
+",59882228eef805f6842057c0,,,,False
+Keamanan online banking?,59882228eef805f6842057c0,,,,False
+Danamon Online Banking amankah?,59882228eef805f6842057c0,,,,False
+"Mengapa situs danamon online tidak dapat di akses?
+",59882228eef805f6842057c1,Mengapa Nasabah tidak dapat mengakses situs Danamon Online Banking?,59882228eef805f6842057c1,0.74597315523173,True
+Situs danamon online tidak dapat diakses?,59882228eef805f6842057c1,,,,False
+Apa sebab situs danamon online tidak dapat diakses?,59882228eef805f6842057c1,Mengapa Nasabah tidak dapat mengakses situs Danamon Online Banking?,59882228eef805f6842057c1,0.6324728322124,True
+"Mengapa tidak dapat Login?
+",59882228eef805f6842057c2,,,,False
+Tidak dapat login ke danamon online banking?,59882228eef805f6842057c2,Mengapa Nasabah tidak dapat Login ke Danamon Online Banking?,59882228eef805f6842057c2,0.89053628553571,True
+Apa penyebab tidak dapat login ke situs danamon online?,59882228eef805f6842057c2,,,,False
+"Lewat PC atau smartphone bisa?
+",59882228eef805f6842057c3,,,,False
+Bisakah danamon online banking bisa diakses lewat PC atau smartphone?,59882228eef805f6842057c3,Apakah Danamon Online Banking dapat diakses melalui PC Tablet atau Smartphone?,59882228eef805f6842057c3,0.72384271687752,True
+"Lewat PC atau smartphone, danamon online banking bisa diakses?",59882228eef805f6842057c3,Apakah Danamon Online Banking dapat diakses melalui PC Tablet atau Smartphone?,59882228eef805f6842057c3,0.57630559072884,True
+"Apa yang dibutuhkan untuk akses Danamon Online Banking?
+",59882228eef805f6842057c4,,,,False
+Hal lain untuk akses Danamon Online Banking ada?,59882228eef805f6842057c4,,,,False
+Untuk mengakses danamon online banking apa ada hal lain?,59882228eef805f6842057c4,,,,False
+"Lupa user ID atau password?
+",59882228eef805f6842057c5,,,,False
+Bagaimana jika lupa user ID atau password?,59882228eef805f6842057c5,,,,False
+Kalau nasabah lupa user ID atau password bagaimana?,59882228eef805f6842057c5,Apa yang harus Nasabah lakukan jika Nasabah lupa User ID atau Password Nasabah?,59882228eef805f6842057c5,0.58313491511632,True
+"Jika user ID dan password terkunci bagaimana?
+",59882228eef805f6842057c6,Bagaimana jika User ID dan Password Nasabah terkunci?,59882228eef805f6842057c6,0.87596290520091,True
+User ID dan password terkunci?,59882228eef805f6842057c6,Bagaimana jika User ID dan Password Nasabah terkunci?,59882228eef805f6842057c6,0.58561247341664,True
+Apa yang harus saya lakukan jika user ID dan password terkunci?,59882228eef805f6842057c6,,,,False
+"Apa sebab notifikasi email tidak diterima?
+",59882228eef805f6842057c7,Apa yang menyebabkan notifikasi email tidak diterima oleh Nasabah?,59882228eef805f6842057c7,0.67204907306184,True
+Kenapa saya tidak menerima notifikasi email?,59882228eef805f6842057c7,,,,False
+Penyebab notifikasi email tidak diterima apa?,59882228eef805f6842057c7,Apa yang menyebabkan notifikasi email tidak diterima oleh Nasabah?,59882228eef805f6842057c7,0.75559022558121,True
+"Apa langkah aktifasi danamon online banking?
+",59882228eef805f6842057c8,,,,False
+Gimana cara danamon online banking?,59882228eef805f6842057c8,,,,False
+Danamon online banking gimana caranya?,59882228eef805f6842057c8,,,,False
+"Danamon online banking cara registrasi secara online gimana?
+",59882229eef805f6842057c9,Bagaimana cara melakukan registrasi untuk Danamon Online Banking secara Online?,59882229eef805f6842057c9,0.60961747918111,True
+Registrasi danamon online?,59882229eef805f6842057c9,,,,False
+Cara registrasi danamon online banking?,59882229eef805f6842057c9,,,,False
+"Mengapa registrasi online gagal?
+",59882229eef805f6842057ca,Mengapa registrasi online Nasabah tidak berhasil?,59882229eef805f6842057ca,0.58722023826861,True
+Kok gagal registrasi online?,59882229eef805f6842057ca,,,,False
+Registrasi online gagal kenapa?,59882229eef805f6842057ca,,,,False
+"Cara registrasi danamon online lewat ATM?
+",59882229eef805f6842057cb,,,,False
+Lewat ATM registrasi danamon online gimana?,59882229eef805f6842057cb,,,,False
+Bagaimana langkah-langkah registrasi danamon online banking lewat ATM?,59882229eef805f6842057cb,,,,False
+"Cara registrasi danamon onlineEDC PINPad?
+",59882229eef805f6842057cc,,,,False
+EDC PINPad registrasi danamon online gimana?,59882229eef805f6842057cc,,,,False
+Bagaimana langkah-langkah registrasi danamon online banking EDC PINPad?,59882229eef805f6842057cc,,,,False
+"Apa sebab pasword tertolak lewat SMS?
+",59882229eef805f6842057cd,,,,False
+Password tertolak sementara lewat SMS kenapa?,59882229eef805f6842057cd,,,,False
+Kenapa password tidak diterima lewat SMS?,59882229eef805f6842057cd,,,,False
+"Apa user ID dan Password sementara?
+",59882229eef805f6842057ce,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.81903100704858,True
+User ID dan password sementara?,59882229eef805f6842057ce,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.73449124345833,True
+User ID dan password sementara apa?,59882229eef805f6842057ce,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.76676883682455,True
+"Apakah User ID dan Password sementara bisa kadaluarsa?
+",59882229eef805f6842057cf,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.88445893064265,False
+Apakah bisa kadaluarsa User ID dan Password?,59882229eef805f6842057cf,,,,False
+User ID dan password kadaluarsa?,59882229eef805f6842057cf,,,,False
+"Lupa atau kehilangan user ID?
+",59882229eef805f6842057d0,,,,False
+User ID Lupa?,59882229eef805f6842057d0,,,,False
+Sudah registrasi user ID lupa?,59882229eef805f6842057d0,,,,False
+"Jika nasabah tidak mendapatkan password melalui SMS?
+",59882229eef805f6842057d1,Bagaimana jika Nasabah tidak mendapatkan Password melalui SMS?,59882229eef805f6842057d1,0.96412110530431,True
+Tidak mendapatkan password melalui SMS bagaimana?,59882229eef805f6842057d1,Bagaimana jika Nasabah tidak mendapatkan Password melalui SMS?,59882229eef805f6842057d1,0.838919559597,True
+Tidak mendapatkan password melalui SMS?,59882229eef805f6842057d1,Bagaimana jika Nasabah tidak mendapatkan Password melalui SMS?,59882229eef805f6842057d1,0.81144314871387,True
+"Habis registrasi bisa langsung login?
+",59882229eef805f6842057d2,,,,False
+Langsung login habis registrasi bisa?,59882229eef805f6842057d2,,,,False
+Langsung login habis tegistrasi apakah bisa?,59882229eef805f6842057d2,,,,False
+"Pertama kali setelah login ke situs danamon online banking?
+",59882229eef805f6842057d3,Apa yang harus Nasabah lakukan pertama kali setelah Login ke situs Danamon Online Banking?,59882229eef805f6842057d3,0.84617600467741,True
+Setelah login ke situs danamon online banking apa yang pertama harus dilakukan?,59882229eef805f6842057d3,Apa yang harus Nasabah lakukan pertama kali setelah Login ke situs Danamon Online Banking?,59882229eef805f6842057d3,0.82573148368499,True
+Yang pertama dilakukan setelah login?,59882229eef805f6842057d3,,,,False
+"Tidak bisa mengganti user ID dan password sementara?
+",59882229eef805f6842057d4,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.69995377878052,False
+Mengganti user ID dan password sementara kenapa tidak bisa?,59882229eef805f6842057d4,Apakah User ID dan Password Sementara itu?,59882229eef805f6842057ce,0.66604365596918,False
+Mengapa tidak bisa mengganti user ID dan password sementara?,59882229eef805f6842057d4,,,,False
+"Danamon online banking menampilkan rekening apa saja?
+",59882229eef805f6842057d5,,,,False
+Apa saja rekening yang ditampilkan danamon online banking setelah registrasi?,59882229eef805f6842057d5,Rekening apa saja yang akan ditampilkan pada Danamon Online Banking setelah melakukan registrasi?,59882229eef805f6842057d5,0.86005386630777,True
+Rekening apa saja yang ditampilkan setelah registrasi?,59882229eef805f6842057d5,Rekening apa saja yang akan ditampilkan pada Danamon Online Banking setelah melakukan registrasi?,59882229eef805f6842057d5,0.80173757841972,True
+"Apa itu Token?
+",59882229eef805f6842057d6,,,,False
+Token apa?,59882229eef805f6842057d6,,,,False
+Token adalah?,59882229eef805f6842057d6,,,,False
+"Apakah kedua Token harus di registrasi?
+",59882229eef805f6842057d7,,,,False
+Kedua Token harus di registrasi?,59882229eef805f6842057d7,,,,False
+Registrasi kedua Tokennya kah?,59882229eef805f6842057d7,,,,False
+"Cara permintaan perangkat token?
+",59882229eef805f6842057d8,Bagaimana cara melakukan permintaan Perangkat Token?,59882229eef805f6842057d8,0.84986203458064,True
+Permintaan perangkat token?,59882229eef805f6842057d8,Bagaimana cara melakukan permintaan Perangkat Token?,59882229eef805f6842057d8,0.75205975691197,True
+Permintaan perangkat token gimana caranya?,59882229eef805f6842057d8,Bagaimana cara melakukan permintaan Perangkat Token?,59882229eef805f6842057d8,0.88196954965493,True
+"Aktivasi SMS token?
+",59882229eef805f6842057d9,,,,False
+Cara aktivasi SMS token?,59882229eef805f6842057d9,Bagaimana cara melakukan Aktivasi SMS Token?,59882229eef805f6842057d9,0.70328573610889,True
+Aktivasi SMS token gimana caranya?,59882229eef805f6842057d9,Bagaimana cara melakukan Aktivasi SMS Token?,59882229eef805f6842057d9,0.70606500540115,True
+"Apakah token harus di aktivasi?
+",59882229eef805f6842057da,Apakah Token?,59882229eef805f6842057d6,0.69406935147643,False
+Token harus diaktivasi?,59882229eef805f6842057da,,,,False
+Aktivasi token apakah harus?,59882229eef805f6842057da,,,,False
+"Ponsel untuk token hilang?
+",59882229eef805f6842057db,,,,False
+Bagaimana kalau ponsel untuk token hilang?,59882229eef805f6842057db,,,,False
+Bagaimana bila ponsel untuk token hilang?,59882229eef805f6842057db,,,,False
+"Perangkat token hilang?
+",59882229eef805f6842057dc,,,,False
+Bagaimana jika perangkat tokern hilang?,59882229eef805f6842057dc,,,,False
+Perangkat token hilang harus bagaimana?,59882229eef805f6842057dc,,,,False
+"Perangkat token rusak?
+",59882229eef805f6842057dd,,,,False
+Bagaimana jika perangkat tokern rusak?,59882229eef805f6842057dd,,,,False
+Perangkat token rusak harus bagaimana?,59882229eef805f6842057dd,,,,False
+"Apakah ada garansi untuk token?
+",59882229eef805f6842057de,Apakah Token?,59882229eef805f6842057d6,0.65922190754463,False
+Garansi untuk token ada?,59882229eef805f6842057de,,,,False
+Garansi untuk token ada tidak?,59882229eef805f6842057de,,,,False
+"Kalau perangkat token terkunci karena kesalahan masukkan token PIN bagaimana?
+",59882229eef805f6842057df,"Bagaimana jika Perangkat Token Nasabah terkunci, karena tiga kali melakukan kesalahan memasukkan Token PIN?",59882229eef805f6842057df,0.66001038380351,True
+"Bagaimana kalau tiga kali salah memasukkan token PIN, lalu terkunci?",59882229eef805f6842057df,"Bagaimana jika Perangkat Token Nasabah terkunci, karena tiga kali melakukan kesalahan memasukkan Token PIN?",59882229eef805f6842057df,0.5765154105787,True
+Salah memasukkan token PIN lalu terkunci bagaimana?,59882229eef805f6842057df,,,,False
+"Jika nasabah melakukan kesalahan memasukan angka respon token tiga kali bagaimana?
+ ",59882229eef805f6842057e0,,,,False
+Apakah yang harus di lakukan jika salah memasukkan angka respon token sebanyak tiga kali?,59882229eef805f6842057e0,,,,False
+Kalau tiga kali salah masukin angka respon token gimana?,59882229eef805f6842057e0,,,,False
+"Rekening gabungan untuk danamon online bangking apakah bisa?
+",59882229eef805f6842057e1,Apakah Nasabah dapat menggunakan rekening gabungan untuk Danamon Online Banking?,59882229eef805f6842057e1,0.67990030049677,True
+Danamon online banking memakai rekening gabungan bisa?,59882229eef805f6842057e1,,,,False
+Apa bisa rekening gabungan digunakan untuk danamon online banking?,59882229eef805f6842057e1,Apakah Nasabah dapat menggunakan rekening gabungan untuk Danamon Online Banking?,59882229eef805f6842057e1,0.7803562786598,True
+"Apa masih bisa digunakan Danamon Online Banking bilas kartu debit/ATM terblokir?
+",59882229eef805f6842057e2,Apakah Nasabah dapat menggunakan Danamon Online Banking jika Kartu Debit/ATM terblokir?,59882229eef805f6842057e2,0.83190472741776,True
+Jika kartu debit/ATM terblokir apakah danamon online banking masi bisa di gunakan?,59882229eef805f6842057e2,Apakah Nasabah dapat menggunakan Danamon Online Banking jika Kartu Debit/ATM terblokir?,59882229eef805f6842057e2,0.86505906856625,True
+"Bagaimana jika kartu debit/ATM terblokir, apakah danamon online banking masi bisa digunakan?",59882229eef805f6842057e2,Apakah Nasabah dapat menggunakan Danamon Online Banking jika Kartu Debit/ATM terblokir?,59882229eef805f6842057e2,0.87381718890801,True
+"Aturan dalam memasukan data transaksi?
+",59882229eef805f6842057e3,,,,False
+Adakah aturan dalam memasukan data transaksi pada danamon online banking?,59882229eef805f6842057e3,Apakah ada aturan tertentu dalam memasukkan data transaksi pada Danamon Online Banking?,59882229eef805f6842057e3,0.8995124910878,True
+Di danamon online banking adakah aturan tertentu?,59882229eef805f6842057e3,,,,False
+"Batas waktu transaksi SKN dan RTGS?
+",59882229eef805f6842057e4,Kapan Batas waktu transaksi SKN dan RTGS?,59882229eef805f6842057e4,0.95570126067252,True
+Waktu transaksi SKN dan RTGS kapan?,59882229eef805f6842057e4,Kapan Batas waktu transaksi SKN dan RTGS?,59882229eef805f6842057e4,0.84622545984843,True
+Kapankah batas waktu SKN dan RTGS?,59882229eef805f6842057e4,Kapan Batas waktu transaksi SKN dan RTGS?,59882229eef805f6842057e4,0.82392212025942,True
+"Batas waktu transfer online?
+",59882229eef805f6842057e5,,,,False
+Tranfer online adakah batas waktu?,59882229eef805f6842057e5,,,,False
+Batas waktu untuk transfer online apakah ada?,59882229eef805f6842057e5,,,,False
+"Keuntungan menggunakan layanan transfer online?
+",59882229eef805f6842057e6,Apakah keuntungan menggunakan layanan transfer Online (ATM Bersama/ALTO)?,59882229eef805f6842057e6,0.75199728937509,True
+Transfer online ada keuntungannya gak?,59882229eef805f6842057e6,,,,False
+Apakah ada keuntungan menggunakan transfer online?,59882229eef805f6842057e6,Apakah keuntungan menggunakan layanan transfer Online (ATM Bersama/ALTO)?,59882229eef805f6842057e6,0.51913563449007,True
+"Kapan transfer valuta yang berbeda bisa dilakukan?
+",59882229eef805f6842057e7,,,,False
+Valuta yang berbeda bisa dilakukan kapan?,59882229eef805f6842057e7,,,,False
+Kapan bisa dilakukan transfer dalam valuta berbeda?,59882229eef805f6842057e7,,,,False
+"Untuk transaksi mendatang apakah bisa dilakukan?
+",59882229eef805f6842057e8,,,,False
+Transfer valas ke rekening lain apakah bisa dilakukan?,59882229eef805f6842057e8,,,,False
+Bisakah transfer Valas ke rekening lain?,59882229eef805f6842057e8,,,,False
+"Cara mengetahui nilai tukar untuk transfer dalam valuta yang berbeda?
+",59882229eef805f6842057e9,,,,False
+Transfer valuta yang berbeda cara mengetahui nilai tukarnya gimana?,59882229eef805f6842057e9,,,,False
+Mengetahui nilai tukar untuk transfer valuta yang berbeda bagaimana caranya?,59882229eef805f6842057e9,,,,False
+"Apakah semua jenis valuta bisa dilakukan dalam transfer?
+",59882229eef805f6842057ea,,,,False
+Transfer dalam semua jenis valuta?,59882229eef805f6842057ea,,,,False
+Jenis valuta yang berbeda apakah bisa ditransfer?,59882229eef805f6842057ea,,,,False
+"Mengetahui nilai tukar untuk bank lain?
+",59882229eef805f6842057eb,,,,False
+Nilai tukar untuk bank lain?,59882229eef805f6842057eb,,,,False
+Cara mengetahui nilai tukar untuk transfer valas ke rekening bank lain?,59882229eef805f6842057eb,Bagaimana dapat diketahui nilai tukar yang berlaku untuk transfer valas ke rekening bank lain yang diproses?,59882229eef805f6842057eb,0.64948622514699,True
+"Transfer untuk semua jenis valuta?
+",59882229eef805f6842057ec,,,,False
+Jenis valuta apa saja yang bisa transfer?,59882229eef805f6842057ec,,,,False
+Bisa transfer semua jenis valuta?,59882229eef805f6842057ec,,,,False
+"Cara mambayar premi?
+",59882229eef805f6842057ed,,,,False
+Bayar premi asuransi jiwa?,59882229eef805f6842057ed,,,,False
+Premi asuransi jiwa bayarnya gimana?,59882229eef805f6842057ed,,,,False
+"Cara mengajukan klaim penyakit kritis?
+",59882229eef805f6842057ee,Bagaimana mengajukan klaim Penyakit Kritis?,59882229eef805f6842057ee,0.95482279148496,True
+Pengajuan klaim penyakit kritis gimana caranya?,59882229eef805f6842057ee,Bagaimana mengajukan klaim Penyakit Kritis?,59882229eef805f6842057ee,0.91119889426637,True
+Pengajuan klaim penyakit kritis?,59882229eef805f6842057ee,Bagaimana mengajukan klaim Penyakit Kritis?,59882229eef805f6842057ee,0.93209861001244,True
+"Dokumen untuk pengajuan klaim meninggal?
+",59882229eef805f6842057f0,Dokumen apa yang diperlukan untuk mengajukan klaim meninggal?,59882229eef805f6842057f0,0.82785916933419,True
+Untuk klaim meninggal dokumen apa saja yang diperlukan?,59882229eef805f6842057f0,Dokumen apa yang diperlukan untuk mengajukan klaim meninggal?,59882229eef805f6842057f0,0.87495431870587,True
+Dokumen untuk klaim meninggal apa saja?,59882229eef805f6842057f0,Dokumen apa yang diperlukan untuk mengajukan klaim meninggal?,59882229eef805f6842057f0,0.71619124560987,True
+"Dokumen untuk pengajuan klaim kecelakaan?
+",59882229eef805f6842057f1,Dokumen apa yang diperlukan untuk mengajukan klaim kecelakaan?,59882229eef805f6842057f1,0.85928528110224,True
+Untuk klaim kecelakaan dokumen apa saja yang diperlukan?,59882229eef805f6842057f1,Dokumen apa yang diperlukan untuk mengajukan klaim kecelakaan?,59882229eef805f6842057f1,0.92972009579549,True
+Dokumen untuk klaim kecelakaan apa saja?,59882229eef805f6842057f1,Dokumen apa yang diperlukan untuk mengajukan klaim kecelakaan?,59882229eef805f6842057f1,0.80207241617066,True
+"Dokumen untuk pengajuan klaim PRUmed?
+",59882229eef805f6842057f2,Dokumen apa yang diperlukan untuk mengajukan klaim PRUmed?,59882229eef805f6842057f2,0.7520612039119,True
+Untuk klaim PRUmed dokumen apa saja yang diperlukan?,59882229eef805f6842057f2,Dokumen apa yang diperlukan untuk mengajukan klaim PRUmed?,59882229eef805f6842057f2,0.81599032878833,True
+Dokumen untuk klaim PRUmed apa saja?,59882229eef805f6842057f2,Dokumen apa yang diperlukan untuk mengajukan klaim PRUmed?,59882229eef805f6842057f2,0.58873559801507,True
+"Cara mengajukan klaim pembedahan dan perawatan?
+ ",59882229eef805f6842057f3,Bagaimana mengajukan klaim Pembedahan & Perawatan (S & N)?,59882229eef805f6842057f3,0.74675735527714,True
+Klaim pembedahan dan perawatan gimana caranya?,59882229eef805f6842057f3,,,,False
+Mengajukan klaim pembedahan dan perawatan bagaimana?,59882229eef805f6842057f3,Bagaimana mengajukan klaim Pembedahan & Perawatan (S & N)?,59882229eef805f6842057f3,0.82081253464144,True
+"Dokumen untuk pengajuan klaim cacat total dan tetap?
+",59882229eef805f6842057f4,Dokumen apa yang diperlukan untuk mengajukan klaim Cacat Total dan Tetap?,59882229eef805f6842057f4,0.95507128666544,True
+Untuk klaim cacat total dan tetap dokumen apa saja yang diperlukan?,59882229eef805f6842057f4,Dokumen apa yang diperlukan untuk mengajukan klaim Cacat Total dan Tetap?,59882229eef805f6842057f4,0.96474291278639,True
+Dokumen untuk klaim cacat total dan tetap apa saja?,59882229eef805f6842057f4,Dokumen apa yang diperlukan untuk mengajukan klaim Cacat Total dan Tetap?,59882229eef805f6842057f4,0.93412796339585,True
+"Bagaimana cara memulihkan polis jika terlambat membayar premi?
+",59882229eef805f6842057f5,,,,False
+"Bayar premi terlambat, bagaimana memulihkan polis?",59882229eef805f6842057f5,,,,False
+Memulihkan polis karena bayar premi terlambat gimana caranya?,59882229eef805f6842057f5,,,,False
+"Manfaat apa yang saya dapat dari polis?
+",59882229eef805f6842057f6,,,,False
+Dari polis ini saya dapat keuntungan apa?,59882229eef805f6842057f6,,,,False
+Keuntungan apa yang saya dapat dari polis ini?,59882229eef805f6842057f6,,,,False
+"Jika pindah alamat, kemana menginformasikan alamat baru?
+",59882229eef805f6842057f7,,,,False
+Menginformasikan alamat baru karena pindah alamat kemana?,59882229eef805f6842057f7,,,,False
+Memberitahu alamat baru kemana?,59882229eef805f6842057f7,,,,False
