@@ -1,0 +1,55 @@
+Intent,Question,English Translation
+0,ฉันอยากยกเลิกประกันที่ฉันซื้อเมื่อเข้ารับการรักษาในโรงพยาบาล (hospitalization plan),I want to cancel the insurance I bought when I was hospitalized. (hospitalization plan)
+0,ฉันต้องการยกเลิกแผนประกันที่ฉันซื้อเพื่อให้คุ้มครองค่าใช้จ่ายจากการเข้ารับการรักษาที่โรงพยาบาล (hospitalization plan),I want to cancel my insurance plan to cover hospitalization expenses. (hospitalization plan)
+0,ฉันต้องการยกเลิกแผนประกันที่ฉันซื้อเพื่อคุ้มครองเมื่อเข้ารับการรักษาที่โรงพยาบาล (hospitalization plan),I want to cancel my insurance plan when I'm hospitalized. (hospitalization plan)
+1,จะเปลี่ยนที่อยู่ต้องทำอย่างไร?,How do I change my address?
+1,ฉันสามารถเปลี่ยนแปลงที่อยู่ในการรับข่าวสารจากบริษัทฯ ได้อย่างไร?,How can I change my address?
+1,ฉันสามารถเปลี่ยนแปลงที่อยู่ได้อย่างไร?,How can I change my address?
+2,ทำไมสิ่งที่เป็นมาก่อนที่ฉันจะซื้อประกัน (pre-existing conditions) ถึงไม่อยู่ในความคุ้มครอง?,Why is something that comes before I buy insurance? Are pre-existing conditions not covered?
+2,ทำไมสภาพที่เป็นมาก่อนการเอาประกันภัย (pre-existing conditions) ไม่อยู่ในความคุ้มครอง?,Why pre-insurance conditions? Are pre-existing conditions not covered?
+2,ทำไมสภาพที่เป็นมาก่อนวันเริ่มต้นการคุ้มครอง (pre-existing conditions) ถึงไม่อยู่ในความคุ้มครอง?,Why is the condition before the start date of coverage? Are pre-existing conditions not covered?
+3,มีประกันสำหรับนักเรียน นักศึกษาบ้างหรือไม่?,Guaranteed for students. Some students?
+3,มีแผนประกันสำหรับนักเรียนนักศึกษาหรือไม่?,Is there an insurance plan for students?
+3,มีแผนความคุ้มครองสำหรับนักเรียนนักศึกษาหรือไม่?,Is there a student coverage plan?
+4,ฉันต้องการติดต่อ Customer Service,I want to contact Customer Service.
+4,ฉันต้องการติดต่อศูนย์บริการลูกค้า,I want to contact a customer service center.
+4,ฉันต้องการติดต่อ Call Center,I want to contact Call Center.
+5,ฉันจะแจ้งเรื่องฉุกเฉินได้อย่างไรและเมื่อไร?,How do I report an emergency and when?
+5,ฉันสามารถติดต่อบริการให้ความช่วยเหลือฉุกเฉินได้เมื่อไรและอย่างไร?,When and how can I contact the emergency services?
+5,ฉันสามารถติดต่อขอรับบริการความช่วยเหลือฉุกเฉินได้เมื่อไรและอย่างไร?,When and how can I contact the Emergency Response Services?
+6,คุณมีส่วนลดประวัติดีหรือไม่?,Do you have a good discount history?
+6,คุณมีส่วนลดในกรณีที่ไม่มีการเรียกร้องค่าสินไหมทดแทนหรือไม่?,Do you have a discount in case of no claim?
+6,คุณมีส่วนลดประวัติดีในกรณีที่ไม่มีประวัติเรียกร้องค่าสินไหมทดแทนหรือไม่?,Do you have a good discount history if there is no claim history?
+7,ฉันจะยกเลิกประกันได้อย่างไร?,How do I cancel my insurance?
+7,ฉันสามารถยกเลิกกรมธรรม์ได้อย่างไร?,How can I cancel my policy?
+7,ฉันสามารถยกเลิกแผนประกันได้อย่างไร?,How can I cancel my insurance plan?
+8,ฉันจะอัพเดตโปรไฟล์หรือใบแจ้งชำระเบี้ยได้อย่างไร?,How do I update my profile or payment statement?
+8,ฉันสามารถปรับปรุงข้อมูลส่วนตัวหรือข้อมูลใบแจ้งชำระเบี้ยประกันได้อย่างไร?,How can I update my personal information or claim statement?
+8,ฉันสามารถปรับปรุงข้อมูลส่วนตัวหรือใบแจ้งชำระเงินได้อย่างไร?,How can I update my personal information or payment statement?
+9,ช่องทางชำระเงินใดบ้างที่คุณรองรับ?,Which payment channels do you support?
+9,คุณรองรับการชำระเบี้ยประกันผ่านช่องทางใดบ้าง?,What channels do you pay for?
+9,คุณรองรับการชำระเบี้ยประกันรูปแบบใดบ้าง?,What kinds of insurance premium payment channels are accepted?
+10,วันไหนจะมีการตัดบัญชี?,Which day will be debited?
+10,การหักชำระเบี้ยประกันอัตโนมัติจะมีขึ้นทุกวันที่เท่าไรของเดือน?,When auto insurance deduction happens each month?
+10,หากสมัครบริการหักเงินชำระเบี้ยประกันไว้ การตัดเงินจะมีขึ้นทุกวันที่เท่าไรของแต่ละเดือน?,"If I apply for an auto insurance premium payment service, when debit will happen for each month?"
+11,ฉันจะจ่ายบิลได้อย่างไร?,How can I pay?
+11,ฉันสามารถชำระเบี้ยประกันได้อย่างไร?,How can I pay my premiums?
+11,ฉันสามารถชำระเบี้ยประกันได้อย่างไรบ้าง?,How do I pay my premiums?
+12,ฉันจะสมัครบริการหักบัญชีอัตโนมัติต้องทำอย่างไรบ้าง? และใช้เวลาไหมกว่าที่จะมีผล?,How do I apply for Direct Debit? And take more than that to take effect?
+12,ฉันสามารถสมัครบริการชำระเบี้ยประกันอัตโนมัติโดยการหักบัญชีได้อย่างไร? และใช้เวลากี่วันในการดำเนินการ?,How do I apply for an auto insurance premium payment? And how many days of operation?
+12,ฉันสามารถสมัครบริการหักเงินชำระเบี้ยประกันโดยอัตโนมัติได้อย่างไร? และใช้เวลากี่วันในการดำเนินการ?,How can I apply for the auto insurance deduction service? And how many days of operation?
+13,ฉันจะเช็คการใช้งานและยอดเงินที่เรียกเก็บ (statement balance) ได้อย่างไร?,How do I check the usage and balance balance?
+13,ฉันสามารถตรวจสอบปริมาณการใช้งานและยอดเงินใช้จ่ายที่เรียกเก็บ (statement balance) ในบัญชีของฉันได้อย่างไร?,How can I track the amount of usage and the statement balance in my account?
+13,ฉันสามารถตรวจสอบการใช้งานและยอดเงินที่เรียกเก็บ (statement balance) ได้อย่างไร?,How can I check the usage and balance balance?
+14,ข้อมูลของฉันปลอดภัยแค่ไหน?,How secure is my data?
+14,ฉันสามารถเชื่อมั่นในความปลอดภัยของข้อมูลของฉันได้อย่างไร?,How can I believe in the security of my information?
+14,ฉันสามารถเชื่อมั่นในความปลอดภัยของข้อมูลของฉันได้หรือไม่?,Can I trust the security of my information?
+15,ฉันสมัครประกันแล้ว อีกกี่วันถึงจะมีผลบังคับใช้?,I applied for insurance. How many days will it take?
+15,เมื่อฉันซื้อแผนประกันแล้ว ทางบริษัทฯ จะใช้เวลาในการพิจารณารับประกันกี่วันกรมธรรม์ถึงจะมีผลบังคับใช้?,"When I buy insurance plan, how long will it take for the insurance policy to take effect?"
+15,เมื่อฉันซื้อประกันแล้ว จะใช้เวลาในการพิจารณารับประกันกี่วันกรมธรรม์ถึงจะมีผลบังคับใช้?,When I bought the insurance How long will it take to determine how many days your policy will be effective?
+16,ฉันจะขอใบเคลมได้จากที่ไหน?,Where can I get a claim?
+16,ฉันสามารถขอรับแบบเรียกร้องค่าสินไหมทดแทนประกันภัยได้จากที่ไหน?,Where can I get the claim form?
+16,ฉันขอแบบฟอร์มเรียกร้องค่าสินไหมได้จากที่ไหน?,Where can I get a claim form?
+17,คุณมีประกันตลอดชีพหรือไม่?,Do you have life insurance?
+17,คุณมีแผนประกันตลอดชีวิตให้เลือกซื้อหรือไม่?,Do you have a lifetime plan to buy?
+17,คุณมีแผนความคุ้มครองตลอดชีวิตให้เลือกซื้อหรือไม่?,Do you have a lifetime plan to buy?
